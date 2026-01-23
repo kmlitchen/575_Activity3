@@ -1,0 +1,19 @@
+/* Created By: Katie Litchen 22Jan2026 */
+
+span {
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.headline {
+    font-variant: small-caps;
+}
+
+#world {
+    text-align: right;
+}
+
+div > span {
+    text-indent: 20%;
+}
